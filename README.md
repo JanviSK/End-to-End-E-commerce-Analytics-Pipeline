@@ -1,4 +1,4 @@
-# Supply-Chain-Logistics-Analytics-Project
+# End-to-End Supply Chain & E-commerce Analytics Pipeline
 Overview:
 Built an end-to-end data pipeline using multi-table e-commerce data (customers, orders, products, payments) to generate actionable business insights on revenue, customer behavior, and operational efficiency.
 
