@@ -1,3 +1,5 @@
+Project Workflow Board: https://github.com/users/JanviSK/projects/6
+
 # End-to-End E-commerce Analytics Pipeline
 Overview:
 Built an end-to-end data pipeline using multi-table e-commerce data (customers, orders, products, payments) to generate actionable business insights on revenue, customer behavior, and operational efficiency.
